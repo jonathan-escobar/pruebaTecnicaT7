@@ -1,0 +1,7 @@
+# Ignorar todo por defecto
+/Include
+/Lib
+/Scripts
+/share
+pyvenv.cfg
+/src/__pycache__
